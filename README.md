@@ -1,7 +1,7 @@
 ## Olá 👋
 
 - 🌱 Atuo como Coordenador de desenvolvimento de software
-- 🧭 Venho do mundo ágil: comecei como Scrum Master e hoje coordeno times de desenvolvimento. Gosto de times onde as pessoas crescem, aproveitam o trabalho e entregam software de qualidade
+- 🧭 Estou procurando criar equipes onde as pessoas possam crescer, aproveitar seu trabalho e criar software fenomenal
 - 🚀 Sou fascinado por tudo o que a humanidade consegue criar com tecnologia, e quero fazer parte de quem constrói isso
 - ☕ Estudo Java e orientação a objetos para me manter praticando programação
 - 📚 Aqui no GitHub: exercícios do Beecrowd e estudos dos cursos do Professor Isidro
