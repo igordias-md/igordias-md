@@ -6,6 +6,6 @@
 - ☕ Estudo Java e orientação a objetos para me manter praticando programação
 - 📚 Aqui no GitHub: exercícios do Beecrowd e estudos dos cursos do Professor Isidro
 - 👯 Quero trocar ideia com quem trabalha com Java, agilidade e engenharia de software
-- ⚡ No meu tempo livre gosto de praticar esportes: musculação, corrida e bike 💪🚴🏻‍♂️🏃🏻‍♂️
+- ⚡ No meu tempo livre gosto de praticar esportes: musculação, natação, corrida e bike 💪🏊🏻‍♂️🚴🏻‍♂️🏃🏻‍♂️
 
 📫 [LinkedIn](https://www.linkedin.com/in/igordias-md)
